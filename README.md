@@ -11,18 +11,8 @@ Third approach followed by us is incorporating some human input by providing (x,
 
 ``` python mountain.py mountain.jpg 250 147  ```
 
-![output_simple.jpg](part2/sample_output/output_simple.jpg)
-![output_human.jpg](/part2/sample_output/output_human.jpg)
-![output_map.jpg](part2/sample_output/output_map.jpg)
+![output_simple.jpg](/sample_output/output_simple.jpg)
+![output_human.jpg](/sample_output/output_human.jpg)
+![output_map.jpg](/sample_output/output_map.jpg)
 
-``` python mountain.py mountain2.jpg 35 80  ```
 
-![output_simple.jpg](/part2/sample_output/output_simple2.jpg)
-![output_human.jpg](part2/sample_output/output_human2.jpg)
-![output_map.jpg](/part2/sample_output/output_map2.jpg)
-
-``` python mountain.py mountain8.jpg 80 200  ```
-
-![output_simple.jpg](part2/sample_output/output_simple8.jpg)
-![output_human.jpg](part2/sample_output/output_human8.jpg)
-![output_map.jpg](part2/sample_output/output_map8.jpg)
